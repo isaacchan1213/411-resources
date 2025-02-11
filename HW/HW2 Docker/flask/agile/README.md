@@ -1,7 +1,5 @@
 # Agile - CodeChuckle
 
-Project description: CodeChuckle is a startup whose product is GiggleGit, a version control system “where merges are managed by memes." 
-
 - Theme: Get GiggleGit demo into a stable enough alpha to start onboarding some adventurous clients
 - Epic: Onboarding experience 
 - User Story 1: As a vanilla git power-user that has never seen GiggleGit before, I want to brighten my day-to-day developer experience, while still being productive.
